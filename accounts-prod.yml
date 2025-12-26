@@ -2,7 +2,7 @@ build:
   version: "1.0"
 
 accounts:
-  message: "Welcome to VN Bank accounts related prod APIs "
+  message: "Welcome to VN Bank accounts related production APIs "
   contactDetails:
     name: "Vikas Nishad- Product Owner"
     email: "{cipher}e41adc11225390ad858e8479a5e65f44911b6230d5dbb8f7c75f028a14493141538f0ff6516f03757520a230feae4c70"
