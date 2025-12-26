@@ -2,7 +2,7 @@ build:
   version: "3.0"
 
 accounts:
-  message: "Welcome to VN Bank accounts related local APIs "
+  message: "Welcome to VN Bank accounts related docker APIs "
   contactDetails:
     name: "Vikas Nishad - Developer"
     email: "vikas@vnbank.com"
